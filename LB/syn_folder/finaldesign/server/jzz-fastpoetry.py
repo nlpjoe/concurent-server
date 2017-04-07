@@ -1,10 +1,27 @@
-# -*- coding: UTF-8 -*-.
+from twisted.internet import reactor, protocol, endpoints
+from twisted.protocols import basic
 
-# tac(Twisted Application Configuration)
+class PubProtocol(basic.LineReceiver):
+    def __init__(self, factory):
+        self.factory = factory
 
+    def connectionMade(self):
+        self.factory.clients.add(self)
 
-port = 10000
-from twisted.internet import gtkreactor # for gtk-1.2
-gtkreactor.install()
+    def connectionLost(self, reason):
+        self.factory.clients.remove(self)
 
-from twisted.internet import reactor
+    def lineReceived(self, line):
+        for c in self.factory.clients:
+            source = u"<{}> ".format(self.transport.getHost()).encode("ascii")
+            c.sendLine(source + line)
+
+class PubFactory(protocol.Factory):
+    def __init__(self):
+        self.clients = set()
+
+    def buildProtocol(self, addr):
+        return PubProtocol(self)
+
+endpoints.serverFromString(reactor, "tcp:1025").listen(PubFactory())
+reactor.run()

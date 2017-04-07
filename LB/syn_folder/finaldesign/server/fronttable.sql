@@ -4,7 +4,7 @@ name varchar(32)
 );
 
 CREATE TABLE FrontDataTable(
-IP          varchar(32) primary key,
+IP          varchar(32) not null,
 typeid      int         references TypeTable(id),
 datetime    varchar(32) not null,
 data        varchar(32)
