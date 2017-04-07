@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"protocol\tstatement"
+			],
+			[
+				"fac",
+				"factory\tstatement"
+			],
+			[
+				"con",
+				"connectionLost\tfunction"
+			],
+			[
+				"poet",
+				"PoetryFactory\tclass"
+			],
+			[
+				"poetry",
+				"poetry_file"
+			],
+			[
+				"proto",
+				"protocol\tstatement"
+			],
+			[
+				"Serv",
+				"ServerFactory\tclass"
+			],
+			[
+				"connection",
+				"connectionMade\tfunction"
+			],
+			[
+				"poe",
+				"poetry_file\tstatement"
+			],
+			[
+				"def",
+				"deferred\tstatement"
+			],
+			[
+				"addC",
+				"addCallbacks\tfunction"
+			],
+			[
+				"Poetr",
+				"PoetryClientFactory\tclass"
+			],
+			[
+				"deferre",
+				"Deferred\tclass"
+			],
+			[
+				"get_",
+				"get_poetry"
+			],
+			[
+				"int",
+				"internet\tmodule"
+			],
+			[
+				"add",
+				"address\tforstmt"
+			],
+			[
+				"err",
+				"errors\tstatement"
+			],
+			[
+				"par",
+				"parse_args\tfunction"
+			],
+			[
+				"poem",
+				"poem\tparam"
+			],
+			[
+				"Cl",
+				"ClientFactory\tclass"
+			],
+			[
+				"twi",
+				"twisted\tmodule"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"prot",
+				"Protocol"
+			],
+			[
+				"tcp",
+				"tcpServ\tstatement"
+			],
+			[
+				"soc",
+				"sock\tstatement"
+			],
+			[
+				"so",
+				"sock\tstatement"
+			],
+			[
+				"li",
+				"list\tclass"
+			],
+			[
+				"SOCKS",
+				"SOCK_STREAM\tinstance"
+			],
+			[
+				"sock",
+				"socket\tmodule"
+			],
+			[
+				"sock_s",
+				"SOCK_STREAM\tinstance"
+			],
+			[
+				"AF_",
+				"AF_INET\tinstance"
+			],
+			[
+				"long",
+				"long_time_task\tfunction"
+			],
+			[
+				"appl",
+				"apply_async\tfunction"
+			],
+			[
+				"pool",
+				"Pool\tfunction"
+			],
+			[
+				"multi",
+				"multiprocessing\tmodule"
+			],
+			[
+				"ser",
+				"server_addr\tstatement"
+			],
+			[
+				"Queue",
+				"QueueManager\tclass"
+			],
+			[
+				"Ba",
+				"BaseManager\tclass"
+			],
+			[
+				"queue",
+				"QueueManager\tclass"
+			],
+			[
+				"proce",
+				"process_thread\tfunction"
+			],
+			[
+				"loac",
+				"local_school\tstatement"
+			],
+			[
+				"loc",
+				"local_school\tstatement"
+			],
+			[
+				"lo",
+				"Lock\tstatement"
+			],
+			[
+				"thre",
+				"Thread\tclass"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"respon",
+				"responses"
+			],
+			[
+				"formatt",
+				"formatted_name"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"priv",
+				"privilege"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"restaur",
+				"restaurant_name"
+			],
+			[
+				"increme",
+				"increment_number_served"
+			],
+			[
+				"num",
+				"number_served"
+			],
+			[
+				"numbe",
+				"numbers"
+			],
+			[
+				"open",
+				"open_restaurant"
+			],
+			[
+				"toppi",
+				"topping"
+			],
+			[
+				"topp",
+				"toppings"
+			],
+			[
+				"favor",
+				"favorite_languages"
+			],
+			[
+				"plya",
+				"player"
+			],
+			[
+				"play",
+				"players"
+			],
+			[
+				"Seek",
+				"SEEK_SET\tMacro"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "ip",
+		"selected_items":
+		[
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"up",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 422.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Echo/Documents/FinalExam/servers/LB/syn_folder/finaldesign"
+	],
+	"file_history":
+	[
+		"/Users/Echo/Documents/FinalExam/servers/LB/syn_folder/twisted/src/twisted/protocols/basic.py",
+		"/Users/Echo/Documents/FinalExam/servers/LB/syn_folder/twisted-intro/twisted-server-1/transformedpoetry.py",
+		"/Users/Echo/Documents/FinalExam/servers/LB/syn_folder/twisted-intro/twisted-deferred/defer-block.py",
+		"/Users/Echo/Documents/FinalExam/servers/LB/syn_folder/twisted-intro/blocking-server/slowpoetry.py",
+		"/Users/Echo/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/Echo/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/Echo/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/Echo/Library/Application Support/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/Users/Echo/Documents/FinalExam/servers/LB/syn_folder/twisted-intro/twisted-client-4/jzz-get-poetry.py",
+		"/Users/Echo/Documents/FinalExam/servers/LB/syn_folder/twisted-intro/basic-twisted/simple-poll.py",
+		"/Users/Echo/Documents/FinalExam/servers/LB/syn_folder/twisted-intro/blocking-server/jzz_slowpoetry.py",
+		"/Users/Echo/Documents/FinalExam/servers/LB/syn_folder/twisted-intro/blocking-server/仿写.[y",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/网络编程/twisted-intro/blocking-server/slowpoetry.py",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/网络编程/tsTClnt",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/生成器.py",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/协程.py",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/网络编程/使用Mysql.py",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/网络编程/server.py",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/网络编程/TCP1.py",
+		"/Users/Echo/Documents/FinalExam/servers/LB/syn_folder/taskworker.py",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/multiprocessingtest.py",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/multithreadtest1.py",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/multithreadtest3.py",
+		"/Users/Echo/Documents/FinalExam/servers/LB/syn_folder/taskmanager.py",
+		"/Users/Echo/Documents/FinalExam/servers/LB/syn_folder/pool.py",
+		"/Users/Echo/Documents/FinalExam/servers/LB/syn_folder/Queue进程间通信.py",
+		"/Users/Echo/我的代码/Python/分布式进程/taskworker.py",
+		"/Users/Echo/我的代码/Python/分布式进程/taskmanager.py",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/分布式进程/taskworker.py",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/分布式进程/taskmanager.py",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/multithreadtest.py",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/multithreadtest2.py",
+		"/Users/Echo/我的代码/Python/廖雪峰教程/multiprocessing.py",
+		"/Users/Echo/Library/Application Support/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/Users/Echo/Library/Application Support/Sublime Text 3/Packages/Python Flake8 Lint/Flake8Lint.sublime-settings",
+		"/Users/Echo/Library/Application Support/Sublime Text 3/Packages/User/Flake8Lint.sublime-settings",
+		"/Users/Echo/Library/Application Support/Sublime Text 3/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/Users/Echo/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/Echo/我的代码/Python/Python编程实践/廖雪峰/multiprocessing.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/11章/names.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/15章/mpl_squares.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/10章/file_reader.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/10章/survey.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/10章/language_survey.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/10章/test_survey.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/11章/employee.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/11章/testemployee.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/10章/write_message.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/10章/number_writer.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/11章/name_function.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/11章/test_name_function.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/11章/city_functions.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/11章/test_cities.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/ordereddict.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/pizza.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/user.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/1_01.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/greeter.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/making_pizza.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/car.py",
+		"/Users/Echo/我的代码/Python/Python编程实践/my_electric_car.py",
+		"/Users/Echo/Documents/调剂资料/ALGCode/玩具代码/二进制读写.c",
+		"/Users/Echo/Documents/调剂资料/ALGCode/玩具代码/file1.txt",
+		"/Users/Echo/Documents/调剂资料/ALGCode/2016年/2016年.c",
+		"/Users/Echo/Documents/调剂资料/ALGCode/LinkListSort/linklistsort.c",
+		"/Users/Echo/Documents/调剂资料/ALGCode/temp.cpp"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"linereceiver",
+			"\n    ",
+			"def",
+			"TransformService",
+			"\"python_interpreter\"",
+			"\"python_interpreter\":",
+			"e501",
+			"pep",
+			"class",
+			"IWrite",
+			"501",
+			"python_interpreter",
+			"name_function",
+			":\n",
+			"':\n",
+			"get_privileges",
+			"print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.cc":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 177.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "finaldesign.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/FinalExam/servers/LB/syn_folder/twisted-intro/twisted-client-4/jzz-get-poetry.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

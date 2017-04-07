@@ -1,0 +1,24 @@
+finaldesign
+  |- __init__.py
+  |- client
+      |- __init__.py
+      |- a.py
+  |- server
+      |- __init__.py
+      |- b.py
+  |- tests
+      |- __init__.py
+      |- test_data_simulater
+
+
+finaldesign/
+    __init__.py
+    client/
+        __init__.py
+        a.py
+    server/
+        __init__.py
+         b.py
+    tests/
+        __init__.py
+        test_data_simulater
