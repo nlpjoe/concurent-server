@@ -49,7 +49,7 @@ class SensorProtocol(Protocol):
     def sendMessage(self, task_num):
         def strWrapper(data):
             """ 封装数据(IP地址 传感器类型ID 采集值 采集时间)"""
-            str = '%s:%s %d %s %s\r\n' % (self.host, self.port, data[0], data[1], data[2])
+            str = '%s:%s,%d,%s,%s\r\n' % (self.host, self.port, data[0], data[1], data[2])
             return str
 
         time.sleep(self.factory.delay)

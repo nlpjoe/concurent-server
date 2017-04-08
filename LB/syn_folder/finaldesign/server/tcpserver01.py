@@ -23,7 +23,6 @@ class MyProtocal(Protocol):
     def __init__(self):
         print("43:MyProtocal __init__")
         pass
-        
     def connectionMade(self):
         print("24:MyProtocal connectionMade")
         self.factory.addClient(self)
