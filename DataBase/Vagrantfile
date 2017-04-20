@@ -8,8 +8,8 @@
 Vagrant.configure("2") do |config|
 
     config.vm.box = "ubuntu/trusty64"
-    config.vm.synced_folder "~/Documents/FinalExam/servers/LB/syn_folder", "/home/vagrant/synced_folder"
-        
+    config.vm.synced_folder "~/Documents/FinalExam/servers/syn_folder", "/home/vagrant/synced_folder"
+
         config.vm.define "DataBase", autostart:true do |node|
 
             # 主机名

@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/synced_folder":{"guestpath":"/home/vagrant/synced_folder","hostpath":"/Users/Echo/Documents/FinalExam/servers/syn_folder","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/Echo/Documents/FinalExam/servers/DS-centos","disabled":false,"__vagrantfile":true}}}

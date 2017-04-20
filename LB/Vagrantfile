@@ -8,10 +8,10 @@
 Vagrant.configure("2") do |config|
 
     config.vm.box = "ubuntu/trusty64"
-    config.vm.synced_folder "~/Documents/FinalExam/servers/LB/syn_folder", "/home/vagrant/synced_folder"
+    config.vm.synced_folder "~/Documents/FinalExam/servers/syn_folder", "/home/vagrant/synced_folder"
     # config.vm.network"forwarded_port",guest:80,host:8080
     
-    (101..103).each do |i|
+    (101..102).each do |i|
         
         config.vm.define "LB#{i}", autostart:true do |node|
 
